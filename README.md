@@ -73,8 +73,10 @@ Realizamos pruebas de usabilidad con 3 usuarios, quienes probaron la búsqueda y
 
 **Testimonio 1**
 - Debería de tener un diseño más atractivo. La idea es muy buena y me ofrecería a ser cuidadora.
+
 **Testimonio 2**
 - Que tenga algo que me llame la atención visualmente.
+
 **Testimonio 3**
 - Que el proceso de registro no sea tan complicado.
 ---
