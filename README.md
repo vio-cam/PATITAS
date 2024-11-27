@@ -19,6 +19,9 @@ Muchos dueños de mascotas enfrentan dificultades cuando necesitan dejar a sus a
 
 ## 💡 Enfoque de Design Thinking
 
+para ver el archivo abrir aquí 👇:
+https://www.canva.com/design/DAGV09lQN-Y/_7IGfuZ3rfxE-3pCUZ1uPg/edit?utm_content=DAGV09lQN-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### 1. **Empatizar**: Investigación del Usuario
 Durante esta fase, realizamos entrevistas con dueños de mascotas para entender sus necesidades, frustraciones y expectativas. 
 
@@ -81,6 +84,10 @@ Realizamos pruebas de usabilidad con 3 usuarios, quienes probaron la búsqueda y
 - Que el proceso de registro no sea tan complicado.
 ---
 ## MODELO LEAN CANVAS
+
+modelo lean canvas gráfico,  para observar haz click aquí 👇:
+https://www.canva.com/design/DAGVkDa2bCM/70DmlhuN-EOrKTdSsWQtmw/edit?utm_content=DAGVkDa2bCM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **Socios clave**
 - Veterinarias y tiendas de mascotas: alianzas en la promociones y publicidad.
 - +ChicasTec
