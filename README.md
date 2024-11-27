@@ -48,7 +48,7 @@ Basado en la información recabada, el problema principal es:
 
 ### 3. **Idear**: Generación de Ideas
 En esta etapa, exploramos varias ideas para solucionar el problema. Algunas de las ideas que consideramos fueron:
-- **Perfiles** cLogo de perfil de usuario con íconos de mascotas.
+- **Perfiles** Logo de perfil de usuario con íconos de mascotas.
 - **Bazar** hacer una nevera de lo que puede comer tu mascota, segun sea su raza y su tiempo de vida(tipo bazar).
 - **Albergues** Contacto con albergues de mascotas y difusión para facilitar la adopcion.
 - **Promocionar** Promoción y creación de comunidad petfriendly en Redes
