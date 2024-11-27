@@ -69,13 +69,14 @@ Desarrollamos un prototipo de la plataforma con un diseño simple y funcional:
 ---
 
 ### 5. **Testear**: Validación con Usuarios
-Realizamos pruebas de usabilidad con 3 usuarios, quienes probaron la búsqueda y reserva de cuidadores en la plataforma. Los resultados fueron positivos, pero también descubrimos algunas áreas de mejora:
+Realizamos pruebas de usabilidad con 3 usuarios, quienes probaron la búsqueda y reserva de cuidadores en la plataforma. Estos fueron los resultados:
+
 **Testimonio 1**
-Debería de tener un diseño más atractivo. La idea es muy buena y me ofrecería a ser cuidadora.
+- Debería de tener un diseño más atractivo. La idea es muy buena y me ofrecería a ser cuidadora.
 **Testimonio 2**
-Que tenga algo que me llame la atención visualmente.
+- Que tenga algo que me llame la atención visualmente.
 **Testimonio 3**
-Que el proceso de registro no sea tan complicado.
+- Que el proceso de registro no sea tan complicado.
 ---
 ## MODELO LEAN CANVAS
 **Socios clave**
