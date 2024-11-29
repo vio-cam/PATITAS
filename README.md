@@ -136,6 +136,9 @@ La solución final es una plataforma intuitiva donde los dueños de mascotas pue
 - **Precios flexibles**: Los precios varían según el tipo de cuidado (por horas, días o atención especial).
 - **Sistema de pagos seguro**: Pagos dentro de la plataforma para garantizar la seguridad y comodidad de los usuarios.
 
+## Documentos 
+https://drive.google.com/drive/folders/1hUrlSGEAgFEkmLA_uRI7ZzidbZrgfbJl?usp=drive_link
+
 
 
 
